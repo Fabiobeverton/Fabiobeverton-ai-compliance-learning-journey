@@ -1,0 +1,69 @@
+# Evita repositórios Git embutidos
+**/.git/
+*.orig
+
+# VSCode, JetBrains, Eclipse, Xcode, etc.
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Ambientes virtuais
+venv/
+.env/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Node.js e front-end
+node_modules/
+dist/
+build/
+.cache/
+.next/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*~
+*.bak
+
+# Arquivos de sistema
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.cab
+*.dll
+*.lnk
+
+# Arquivos ZIP e empacotamentos
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Arquivos binários, PDFs e Word (não versionar)
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Jupyter e notebooks temporários
+.ipynb_checkpoints/
+
+# Arquivos de cache e históricos
+.history/
+.cache/
+logs/
