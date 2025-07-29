@@ -1,0 +1,39 @@
+.
+├── .DS_Store
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   ├── index
+│   ├── info
+│   ├── logs
+│   ├── objects
+│   ├── packed-refs
+│   └── refs
+├── .gitignore
+├── README.md
+├── backend
+│   ├── .DS_Store
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── data
+│   ├── env
+│   ├── models
+│   ├── run_tests.sh
+│   ├── src
+│   └── tests
+├── estrutura_projeto.txt
+├── front-end
+│   ├── .DS_Store
+│   ├── dist
+│   ├── index.html
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+└── requirements.txt
+
+17 directories, 20 files
